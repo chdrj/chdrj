@@ -15,7 +15,8 @@
 [![Cloudinary.js]][Cloudinary-url] [![HTML5.js]][HTML5-url] [![CSS3.js]][CSS3-url] [![JavaScript.js]][JavaScript-url] [![Python.js]][Python-url]  
 [![C.js]][C-url] [![C++.js]][C++-url] [![Flask.js]][Flask-url] [![Firebase.js]][Firebase-url] [![NumPy.js]][NumPy-url]  
 
-
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/choidorjbayarkhuu
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
