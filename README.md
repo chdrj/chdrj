@@ -11,22 +11,9 @@
 
 ### Technologies I use:
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vite][Vite.js]][Vite-url]
-* [![MongoDB][MongoDB.js]][Mongo-url]
-* [![MySQL][MySQL.js]][MySQL-url]
-* [![Cloudinary][Cloudinary.js]][Cloudinary-url]
-* [![HTML5][HTML5.js]][HTML5-url]
-* [![CSS3][CSS3.js]][CSS3-url]
-* [![JavaScript][JavaScript.js]][JavaScript-url]
-* [![Python][Python.js]][Python-url]
-* [![C][C.js]][C-url]
-* [![C++][C++.js]][C++-url]
-* [![Flask][Flask.js]][Flask-url]
-* [![Firebase][Firebase.js]][Firebase-url]
-* [![NumPy][NumPy.js]][NumPy-url]
-
+[![Next.js]][Next-url] [![React.js]][React-url] [![Vite.js]][Vite-url] [![MongoDB.js]][Mongo-url] [![MySQL.js]][MySQL-url]  
+[![Cloudinary.js]][Cloudinary-url] [![HTML5.js]][HTML5-url] [![CSS3.js]][CSS3-url] [![JavaScript.js]][JavaScript-url] [![Python.js]][Python-url]  
+[![C.js]][C-url] [![C++.js]][C++-url] [![Flask.js]][Flask-url] [![Firebase.js]][Firebase-url] [![NumPy.js]][NumPy-url]  
 
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
