@@ -6,7 +6,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-* I'm a 2nd year student @ UCLA studying Computer Science.
+* I'm a 3rd year student @ UCLA studying Computer Science.
 
 
 ### Technologies I use:
