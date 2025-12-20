@@ -1,7 +1,5 @@
 # Choidorj (Choi) Bayarkhuu
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 <!-- ABOUT THE PROJECT -->
 ## About Me
