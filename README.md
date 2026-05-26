@@ -32,8 +32,4 @@ $ curl -sL choidorj.com | tail -1
 
 <br />
 
-<p align="center">
-  <sub>more at <a href="https://choidorj.com"><b>choidorj.com</b></a></sub>
-</p>
-
 
