@@ -19,13 +19,9 @@ $ name
 choi.
 
 $ cat about.md
-───────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-       │ File: aboud.md
-───────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-   1 ~ │ i like building things that feel good to use.
-   2 ~ │ lately, i've been interested in customizing tools and writing
-   3 ~ │ little scripts to automate things i probably shouldn't.
-───────┴──────────────────────────────────────────────────────────────────────────────────────────────────────────────
+"i like building things that feel good to use.
+lately, i've been interested in customizing tools and writing
+little scripts to automate things i probably shouldn't."
 
 $ ls ~/outside-of-school/
 traveling/    music/    video-games/
